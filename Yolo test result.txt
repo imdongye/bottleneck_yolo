@@ -1,0 +1,71 @@
+## Yolo test result
+
+병의 개수
+  1. b1, s6  = 7개
+  2. s8      = 8개 
+  3. b12 s9  = 21개
+  4. s6      = 6개
+  5. b5 s3   = 8개
+  6. s2      = 2개
+
+yolo bottle neck
+  1번 이미지
+  - correct: 7
+  - wrong: 0
+  - miss: 0
+
+  2번 이미지
+  - correct: 8
+  - wrong: 0
+  - miss: 0
+
+  3번 이미지
+  - correct: 5
+  - wrong: 1
+  - miss: 16
+
+  4번 이미지
+  - correct: 5
+  - wrong: 0
+  - miss: 1
+
+  5번 이미지
+  - correct: 7
+  - wrong: 0
+  - miss: 1
+
+  6번 이미지
+  - correct: 2
+  - wrong: 1
+  - miss: 0
+
+yolo bottle
+  1번 이미지
+  - correct: 6
+  - wrong: 0
+  - miss: 1
+
+  2번 이미지
+  - correct: 8
+  - wrong: 1
+  - miss: 0
+
+  3번 이미지
+  - correct: 12
+  - wrong: 1
+  - miss: 8
+
+  4번 이미지
+  - correct: 4
+  - wrong: 0
+  - miss: 2
+
+  5번 이미지
+  - correct: 5
+  - wrong: 0
+  - miss: 3
+
+  6번 이미지
+  - correct: 2
+  - wrong: 1
+  - miss: 0

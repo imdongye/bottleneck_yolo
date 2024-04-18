@@ -1,0 +1,6 @@
+/datasets
+/etc
+/runs
+/test*
+!/test
+/yolov5
